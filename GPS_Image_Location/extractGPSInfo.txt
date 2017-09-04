@@ -1,0 +1,4 @@
+ExifImageWidth	4032
+ExifImageHeight	3024
+Orientation	6
+ExifOffset	38
